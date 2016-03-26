@@ -1,0 +1,5 @@
+com\sega\ServletInitializer.class
+com\sega\controller\LoginController.class
+com\sega\controller\HomeController.class
+com\sega\models\User.class
+com\sega\Application.class
